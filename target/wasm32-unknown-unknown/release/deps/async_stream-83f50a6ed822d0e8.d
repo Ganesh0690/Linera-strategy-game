@@ -1,0 +1,10 @@
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/async_stream-83f50a6ed822d0e8.d: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/async_stream.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/next.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/yielder.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/libasync_stream-83f50a6ed822d0e8.rlib: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/async_stream.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/next.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/yielder.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/libasync_stream-83f50a6ed822d0e8.rmeta: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/async_stream.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/next.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/yielder.rs
+
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/lib.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/async_stream.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/next.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/async-stream-0.3.6/src/yielder.rs:

@@ -1,0 +1,14 @@
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/deps/serde-12c096bc0e822dda.d: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/build/serde-3c88ae9891705d59/out/private.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/deps/libserde-12c096bc0e822dda.rlib: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/build/serde-3c88ae9891705d59/out/private.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/deps/libserde-12c096bc0e822dda.rmeta: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs /mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/build/serde-3c88ae9891705d59/out/private.rs
+
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/lib.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/integer128.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/mod.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/de.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.228/src/private/ser.rs:
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/build/serde-3c88ae9891705d59/out/private.rs:
+
+# env-dep:OUT_DIR=/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/build/serde-3c88ae9891705d59/out

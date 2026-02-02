@@ -1,0 +1,1 @@
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/strategy_game_contract.wasm: /mnt/c/Users/kumar/Downloads/linera-strategy-game/src/contract.rs /mnt/c/Users/kumar/Downloads/linera-strategy-game/src/lib.rs

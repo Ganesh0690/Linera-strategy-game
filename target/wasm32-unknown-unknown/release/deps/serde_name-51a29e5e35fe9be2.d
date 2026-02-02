@@ -1,0 +1,10 @@
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/serde_name-51a29e5e35fe9be2.d: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/libserde_name-51a29e5e35fe9be2.rlib: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/libserde_name-51a29e5e35fe9be2.rmeta: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs
+
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/lib.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/de_adapter.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/ser_adapter.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-name-0.2.1/src/trace.rs:

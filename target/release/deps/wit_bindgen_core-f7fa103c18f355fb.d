@@ -1,0 +1,10 @@
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/deps/wit_bindgen_core-f7fa103c18f355fb.d: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/deps/libwit_bindgen_core-f7fa103c18f355fb.rlib: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/deps/libwit_bindgen_core-f7fa103c18f355fb.rmeta: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs
+
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/lib.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/abi.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/ns.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wit-bindgen-core-0.24.0/src/source.rs:

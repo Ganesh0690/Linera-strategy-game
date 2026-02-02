@@ -1,0 +1,10 @@
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/thread_local-e8a707e001a55b5c.d: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/cached.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/thread_id.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/unreachable.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/libthread_local-e8a707e001a55b5c.rlib: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/cached.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/thread_id.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/unreachable.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/libthread_local-e8a707e001a55b5c.rmeta: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/cached.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/thread_id.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/unreachable.rs
+
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/lib.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/cached.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/thread_id.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thread_local-1.1.9/src/unreachable.rs:

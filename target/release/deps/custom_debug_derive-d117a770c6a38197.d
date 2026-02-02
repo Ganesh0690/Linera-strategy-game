@@ -1,0 +1,8 @@
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/deps/custom_debug_derive-d117a770c6a38197.d: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/field_attributes.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/result_into_stream_ext.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/retain_ext.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/release/deps/libcustom_debug_derive-d117a770c6a38197.so: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/field_attributes.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/result_into_stream_ext.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/retain_ext.rs
+
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/lib.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/field_attributes.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/result_into_stream_ext.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/custom_debug_derive-0.6.2/src/retain_ext.rs:

@@ -1,0 +1,11 @@
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/bcs-e01ca89763ac1978.d: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/libbcs-e01ca89763ac1978.rlib: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/mnt/c/Users/kumar/Downloads/linera-strategy-game/target/wasm32-unknown-unknown/release/deps/libbcs-e01ca89763ac1978.rmeta: /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs /home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs
+
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/lib.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/de.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/error.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/ser.rs:
+/home/kumarlinux/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bcs-0.1.6/src/test_helpers.rs:
