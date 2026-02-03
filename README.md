@@ -2,6 +2,12 @@
 
 Real-time turn-based strategy game with AI opponent built on Linera blockchain.
 
+## 🚀 Deployed on Conway Testnet
+
+- **Chain ID**: `05e3a8de55dead95acb43214f4e0b06c1cb03b387979f79d45008bee02bd98ad`
+- **App ID**: `d2221406d5fcd9c10cd6ef04d57dc757747a11299dec6f753d7c0038d8ce86a7`
+- **GraphQL**: `http://localhost:8080/chains/05e3a.../applications/d2221...`
+
 ## Features
 
 - **Turn-Based Combat**: Strategic gameplay with movement and attack phases
